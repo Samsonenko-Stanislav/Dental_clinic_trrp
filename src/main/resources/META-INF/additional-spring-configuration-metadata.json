@@ -1,0 +1,23 @@
+{
+  "properties": [
+    {
+      "name": "hibernate.dialect",
+      "type": "java.lang.String",
+      "description": "Description for hibernate.dialect."
+    },
+    {
+      "name": "hibernate.show_sql",
+      "type": "java.lang.String",
+      "description": "Description for hibernate.show_sql."
+    },
+    {
+      "name": "hibernate.show_sql",
+      "type": "java.lang.String",
+      "description": "Description for hibernate.show_sql."
+    },
+    {
+      "name": "spring.sql.init.mode",
+      "type": "java.lang.String",
+      "description": "Description for spring.sql.init.mode."
+    }
+  ] }
